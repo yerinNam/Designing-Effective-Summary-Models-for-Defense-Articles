@@ -3,7 +3,7 @@
 > Jypyter 환경에서 돌렸으며, 온디바이스 환경에서 학습이 가능함을 시사한다.
 
 ## 학습 개요도
-<img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%A0%84%EC%B2%B4%20%EA%B0%9C%EC%9A%94%EB%8F%84.png?raw=true" width="300" height="100"/>
+<img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%A0%84%EC%B2%B4%20%EA%B0%9C%EC%9A%94%EB%8F%84.png?raw=true" width="400" height="100"/>
 
 
 ## 서비스 개요도
@@ -11,7 +11,7 @@
 
 
 ## 요약 문장 비교
-<img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%9A%94%EC%95%BD%20%EB%AC%B8%EC%9E%A5%20%EB%B9%84%EA%B5%90.png?raw=true" width="400" height="700"/>
+<img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%9A%94%EC%95%BD%20%EB%AC%B8%EC%9E%A5%20%EB%B9%84%EA%B5%90.png?raw=true" width="700" height="600"/>
 
 
 

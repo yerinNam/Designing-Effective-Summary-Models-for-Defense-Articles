@@ -11,7 +11,7 @@
 
 
 ## 요약 문장 비교
-<img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%9A%94%EC%95%BD%20%EB%AC%B8%EC%9E%A5%20%EB%B9%84%EA%B5%90.png?raw=true" width="700" height="600"/>
+<img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%9A%94%EC%95%BD%20%EB%AC%B8%EC%9E%A5%20%EB%B9%84%EA%B5%90.png?raw=true" width="850" height="600"/>
 
 
 

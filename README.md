@@ -2,9 +2,21 @@
 > 본 연구의 모델은 국방 분야에서의 정보 수집과 이해를 돕기 위해, 뉴스 기사의 효과적인 요약을 통해 빠르고 정확한 의사결정을 지원하는 것을 목표로 한다.
 > Jypyter 환경에서 돌렸으며, 온디바이스 환경에서 학습이 가능함을 시사한다.
 
+## 학습 개요도
+<img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%A0%84%EC%B2%B4%20%EA%B0%9C%EC%9A%94%EB%8F%84.png?raw=true" width="300" height="100"/>
+
 
 ## 서비스 개요도
 <img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%A0%84%EC%B2%B4%20%EA%B0%9C%EC%9A%94%EB%8F%84.png?raw=true" width="300" height="100"/>
+
+
+## 요약 문장 비교
+<img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%9A%94%EC%95%BD%20%EB%AC%B8%EC%9E%A5%20%EB%B9%84%EA%B5%90.png?raw=true" width="400" height="700"/>
+
+
+
+## 카카오톡 서비스 예제
+<img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%20%EC%84%9C%EB%B9%84%EC%8A%A4.png?raw=true" width="300" height="400"/>
 
 
 ## 사용 예제

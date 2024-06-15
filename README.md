@@ -3,11 +3,8 @@
 > Jypyter 환경에서 돌렸으며, 온디바이스 환경에서 학습이 가능함을 시사한다.
 
 
-gif로 움짤 올리기
-
-```[![이미지 텍스트](gif 이미지)]```
-
-<img src="https://user-images.githubusercontent.com/4470398/204947699-4feb33cd-ab75-41f6-bedd-10b22eb2e961.gif" width="400" height="280"/>
+## 서비스 개요도
+<img src="[https://user-images.githubusercontent.com/4470398/204947699-4feb33cd-ab75-41f6-bedd-10b22eb2e961.gif](https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%A0%84%EC%B2%B4%20%EA%B0%9C%EC%9A%94%EB%8F%84.png?raw=true)" width="400" height="280"/>
 
 
 ## 사용 예제

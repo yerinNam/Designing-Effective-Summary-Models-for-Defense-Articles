@@ -39,3 +39,7 @@ print(tokenizer.decode(summary_text_ids[0], skip_special_tokens=True))
 ## 정보
 
 MIT 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
+
+
+인용글
+> 인용글[1](https://wonhwa.tistory.com/11#google_vignette)

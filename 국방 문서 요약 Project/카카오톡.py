@@ -12,7 +12,7 @@ url = "https://kapi.kakao.com/v2/api/talk/memo/default/send"
 
 # 사용자 토큰
 headers = {
-    "Authorization": "Bearer " + "vEVdaP-XLLG5cYcjzzvXA-iZYj9oikK1ap0KPXNNAAABjUosRe4SmUam6ZdnFg"
+    "Authorization": "Bearer " + "RESET API KEY"
 }
 
 # 추후 각 리스트에 들어갈 내용(content) 만들기

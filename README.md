@@ -1,6 +1,6 @@
 # Designing-Effective-Summary-Models-for-Defense-Articles
 > 본 연구의 모델은 국방 분야에서의 정보 수집과 이해를 돕기 위해, 뉴스 기사의 효과적인 요약을 통해 빠르고 정확한 의사결정을 지원하는 것을 목표로 한다.
-> Jypyter 환경에서 돌렸으며, 온디바이스 환경에서 학습이 가능함을 시사한다.
+> Jypyter 환경에서 학습하였으며, 온디바이스 환경에서 학습이 가능함을 시사한다.
 
 ## 학습 개요도
 <img src="https://github.com/yerinNam/Designing-Effective-Summary-Models-for-Defense-Articles/blob/main/img/%EC%A0%84%EC%B2%B4%20%EA%B0%9C%EC%9A%94%EB%8F%84.png?raw=true" width="400" height="100"/>
